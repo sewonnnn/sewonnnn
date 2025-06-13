@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 ### 📫 Contact
 
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
-- 📝 Notion Resume : [(https://velog.io/@sewonnnn/posts)](#)
-- ✉️ Email : your_email@example.com
+- 📝 Notion Resume : [https://velog.io/@sewonnnn/posts]
+- ✉️ Email : tpdnjs2896@naver.com
 
 ---
 
