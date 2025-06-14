@@ -83,7 +83,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
-pip install -r requirements.txt
-uvicorn main:app --reload
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=pichulia)
