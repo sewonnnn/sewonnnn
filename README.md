@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
-
+<!-- 잔디 -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={sewonnnn}&theme=warm)
