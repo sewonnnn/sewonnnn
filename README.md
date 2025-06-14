@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230section=header&fontSize=30&animation=twinkling&text=🙋‍♀️)
 <!-- 간단한 인사말 -->
 
 ### 👋 Hi there! I'm **SeWon Park**
