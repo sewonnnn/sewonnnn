@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&fontSize=30&animation=twinkling&text=👋 Hi there! I'm **SeWon Park**)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&fontSize=30&animation=twinkling&text=Sewon Park)
 <!-- 간단한 인사말 -->
 
-### 
+###👋 Hi there! I'm **SeWon Park**
 
 신입 Full Stack Developer 박세원입니다! 😘
 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
