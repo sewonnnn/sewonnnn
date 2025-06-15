@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 
 <!-- 잔디 -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={sewonnnn}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sewonnnn&theme=warm)
 
 
 
