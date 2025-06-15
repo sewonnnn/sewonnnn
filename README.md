@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++Sewon+Park)](https://git.io/typing-svg)
 
-신입 `Full Stack Developer` 박세원입니다! 😘
+<h3>신입 Full Stack Developer 박세원입니다! 😘</h3>
 
 🎓 유아교육과 출신의 커뮤니케이션 능력과 공감력을 바탕으로,  
 🙌 **사람을 위한 기술**을 만들기 위해 꾸준히 배우고, 실천하고 있습니다.
