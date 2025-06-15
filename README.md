@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F3D6D7&height=250&fontSize=50&animation=twinkling&text=Sewon's%20Github&logoColor=white)
 <!-- 간단한 인사말 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F786AE&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++SeWon+Park)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++SeWon+Park)](https://git.io/typing-svg)
 
 신입 Full Stack Developer 박세원입니다! 😘
 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
