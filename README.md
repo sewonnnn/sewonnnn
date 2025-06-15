@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3D6D7&height=200&section=footer"/>
