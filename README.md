@@ -15,15 +15,23 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F3D6D7&height=250&fontSize=50&animation=twinkling&text=Sewon's%20Github&logoColor=white)
 <!-- 간단한 인사말 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++SeWon+Park)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++Sewon+Park)](https://git.io/typing-svg)
 
-신입 Full Stack Developer 박세원입니다! 😘
-프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
-사용자 중심의 개발과 문제 해결을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
+신입 `Full Stack Developer` 박세원입니다! 😘
+
+🎓 유아교육과 출신의 커뮤니케이션 능력과 공감력을 바탕으로,  
+🙌 **사람을 위한 기술**을 만들기 위해 꾸준히 배우고, 실천하고 있습니다.
+
+
+💻현재 Java, Spring, MySQL, HTML/CSS, JavaScript 등을 활용한 풀스택 웹 개발 역량을 키워가고 있습니다.
+  
+📌단순히 "동작하는 프로그램"을 넘어  
+**이해하기 쉬운 코드**, **사용자 친화적인 UI/UX**를 지향합니다.
+
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 **Languages & Fundamentals**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -77,6 +85,10 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+
+---
+
 
 <!-- 잔디 -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={sewonnnn}&theme=warm)
