@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&fontSize=30&animation=twinkling&text="Sewon Park")
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=Sewon/nPark)
 <!-- 간단한 인사말 -->
 
 ###👋 Hi there! I'm **SeWon Park**
