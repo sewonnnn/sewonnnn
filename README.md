@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=250&fontSize=50&animation=twinkling&text=Sewon's%20Github&fontColor=w)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=250&fontSize=50&animation=twinkling&text=Sewon's%20Github&fontColor=660000)
 <!-- 간단한 인사말 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++Sewon+Park)](https://git.io/typing-svg)
