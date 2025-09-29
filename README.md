@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 🎓 유아교육과 출신의 커뮤니케이션 능력과 공감력을 바탕으로,  
 🙌 **사람을 위한 기술**을 만들기 위해 꾸준히 배우고, 실천하고 있습니다.
 
-
 💻현재 Java, Spring, MySQL, HTML/CSS, JavaScript 등을 활용한 풀스택 웹 개발 역량을 키워가고 있습니다.
  
 📌단순히 "동작하는 프로그램"을 넘어  
 **사용자 친화적인 UI/UX**,  **이해하기 쉬운 코드** 를 지향합니다.
 
-
+⭐ 실무 중심 개발 교육을 통해 
 ---
 
 ### 🛠️ Tech Stack
@@ -67,7 +66,7 @@ Here are some ideas to get you started:
 
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **Senior-Digital-Experience**     | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | React, CSS Modules, React Router, React Context API,공공데이터 API, Kakao Map API |
+| 🛡️ **Senior-Digital-Experience**     | 고령층을 대상으로한 디지털 교육 플랫폼 | React, CSS Modules, React Router, React Context API,공공데이터 API, Kakao Map API |
 | 🌐 **I-ON**  |아동 범죄 예방을 위한 지역 기반 커뮤니티 & 실시간 위험 알림 플랫폼            |  Spring MVC, Java, MySQL, Tomcat, View, Auth |
 | 🐾 **Faishion** | AI 기반 체형 맞춤 가상 피팅 플랫폼                        | Spring Boot, Spring Boot, JPA, MySQL, React.js, JavaScript, AWS |
 
