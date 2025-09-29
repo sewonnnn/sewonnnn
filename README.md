@@ -67,19 +67,19 @@ Here are some ideas to get you started:
 
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **Anti-Scam Platform**     | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | Java, Spring, MySQL, JS, Bootstrap |
-| 🌐 **K-Culture Travel Site**  | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공                  | HTML, CSS, jQuery, Bootstrap       |
-| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                         | Spring MVC, JSP, MySQL             |
+| 🛡️ **Senior-Digital-Experience**     | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | React, CSS Modules, React Router, React Context API,공공데이터 API, Kakao Map API |
+| 🌐 **I-ON**  |아동 범죄 예방을 위한 지역 기반 커뮤니티 & 실시간 위험 알림 플랫폼            |  Spring MVC, Java, MySQL, Tomcat, View, Auth |
+| 🐾 **Faishion** | AI 기반 체형 맞춤 가상 피팅 플랫폼                        | Spring Boot, Spring Boot, JPA, MySQL, React.js, JavaScript, AWS |
 
 👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
-👉 [블로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
+👉 [벨로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
 
 ---
 
 ### 📫 Contact
 
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
-- 📝 Notion Resume : [https://velog.io/@sewonnnn/posts]
+- 📝 Velog Resume : [https://velog.io/@sewonnnn/posts]
 - ✉️ Email : tpdnjs2896@naver.com
 
 ---
@@ -91,10 +91,6 @@ Here are some ideas to get you started:
 
 
 ---
-
-
-<!-- 잔디 -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sewonnnn&theme=warm)
 
 
 
