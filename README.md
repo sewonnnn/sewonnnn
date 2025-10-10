@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 
 ### 📫 Contact
 
-- 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Velog Resume : [https://velog.io/@sewonnnn/posts]
 - ✉️ Email : tpdnjs2896@naver.com
 
