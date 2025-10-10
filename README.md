@@ -70,8 +70,6 @@ Here are some ideas to get you started:
 | 🌐 **I-ON**  |아동 범죄 예방을 위한 지역 기반 커뮤니티 & 실시간 위험 알림 플랫폼            |  Spring MVC, Java, MySQL, Tomcat, View, Auth |
 | 👕 **Faishion** | AI 기반 체형 맞춤 가상 피팅 플랫폼                        | Spring Boot, Spring Boot, JPA, MySQL, React.js, JavaScript, AWS |
 
-👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
-👉 [벨로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
 
 ---
 
