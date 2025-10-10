@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
 | 🛡️ **Senior-Digital-Experience**     | 고령층을 대상으로한 디지털 교육 플랫폼 | React, CSS Modules, React Router, React Context API,공공데이터 API, Kakao Map API |
 | 🌐 **I-ON**  |아동 범죄 예방을 위한 지역 기반 커뮤니티 & 실시간 위험 알림 플랫폼            |  Spring MVC, Java, MySQL, Tomcat, View, Auth |
-| 🐾 **Faishion** | AI 기반 체형 맞춤 가상 피팅 플랫폼                        | Spring Boot, Spring Boot, JPA, MySQL, React.js, JavaScript, AWS |
+| 👕 **Faishion** | AI 기반 체형 맞춤 가상 피팅 플랫폼                        | Spring Boot, Spring Boot, JPA, MySQL, React.js, JavaScript, AWS |
 
 👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
 👉 [벨로그 보기](#https://github.com/hm1211/vithamin.github.io.git)
