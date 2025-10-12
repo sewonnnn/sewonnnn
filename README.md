@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🎓 유아교육과 출신의 커뮤니케이션 능력과 공감력을 바탕으로,  
 🙌 **사람을 위한 기술**을 만들기 위해 꾸준히 배우고, 실천하고 있습니다.
 
-💻현재 Java, Spring, MySQL, HTML/CSS, JavaScript 등을 활용한 풀스택 웹 개발 역량을 키워가고 있습니다.
+💻현재 Java, Spring, Spring Boot MySQL, React, HTML/CSS, JavaScript 등을 활용한 풀스택 웹 개발 역량을 키워가고 있습니다.
  
 📌단순히 "동작하는 프로그램"을 넘어  
 **사용자 친화적인 UI/UX**,  **이해하기 쉬운 코드** 를 지향합니다.
