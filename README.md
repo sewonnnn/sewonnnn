@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 - **AI 쇼핑몰 프로젝트**: Spring Boot + Gradle + React + Gemini 활용  
 - **MySQL**로 CRUD, 페이징, 검색 기능 직접 구현
 
+</br>
 
-👩🏻‍💻 저는 자기개발과 성취를 즐기며, 새로운 기술을 빠르게 습득하여 **실무에 바로 적용할 수 있습니다.**
+👩🏻‍💻 자기개발과 성취를 즐기며, 새로운 기술을 빠르게 습득하여 **실무에 바로 적용할 수 있습니다.**
 
+</br>
 ---
 
 ### 🛠️ Tech Stack
