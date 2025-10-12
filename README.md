@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-📌 목표  
+📌 **목표** 
 - 단순히 동작하는 프로그램이 아닌 **사용자 친화적인 UI/UX**와 **이해하기 쉬운 코드** 지향 
 </br>
-⭐ 개발 경험  
+⭐ **개발 경험**  
 - **Spring MVC 패턴 / Spring Boot, React** 기반 웹 플랫폼 구현  
 - **AI 쇼핑몰 프로젝트**: Spring Boot + Gradle + React + Gemini 활용  
 - **MySQL**로 CRUD, 페이징, 검색 기능 직접 구현
