@@ -99,15 +99,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- 깃허브 통계 -->
-
-### 📊 GitHub Stats
-![세원 GitHub Stats](https://github-readme-stats.vercel.app/api?username=githubUsername&show_icons=true&bg_color=ffffff&title_color=ffb6c1&icon_color=ff69b4&text_color=333333)
-
-
-
----
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F3D6D7&height=200&section=footer"/>
