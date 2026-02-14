@@ -35,11 +35,7 @@ Here are some ideas to get you started:
 - **AI 쇼핑몰 프로젝트**: Spring Boot + Gradle + React + Gemini 활용  
 - **MySQL**로 CRUD, 페이징, 검색 기능 직접 구현
 
-</br>
 
-👩🏻‍💻 자기개발과 성취를 즐기며, 새로운 기술을 빠르게 습득하여 **실무에 바로 적용할 자신 있습니다.**
-
-</br>
 ---
 
 ### 🛠️ Tech Stack
@@ -86,7 +82,7 @@ Here are some ideas to get you started:
 | 프로젝트명                    | 설명                                                      | 기술 스택                          |
 | ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
 | 🛡️ **Senior-Digital-Experience**     | 고령층을 대상으로한 디지털 교육 플랫폼 | React, CSS Modules, React Router, React Context API,공공데이터 API, Kakao Map API |
-| 🌐 **I-ON**  |아동 범죄 예방을 위한 지역 기반 커뮤니티 & 실시간 위험 알림 플랫폼            |  Spring MVC, Java, MySQL, Tomcat, View, Auth |
+| 🌐 **I-ON**  |아동 범죄 예방을 위한 지역 기반 커뮤니티 & 실시간 위험 알림 플랫폼            |  Spring MVC, Java, MySQL, JSP, Tomcat, View, Auth |
 | 👕 **Faishion** | AI 기반 체형 맞춤 가상 피팅 플랫폼                        | Spring Boot, JPA, MySQL, React.js, JavaScript, AWS |
 
 
