@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h3>신입 Full Stack Developer 박세원입니다! 😄</h3>
+<h3> Full Stack Developer 박세원입니다! 😄</h3>
 </br>
 🎓 유아교육과 출신으로 뛰어난 커뮤니케이션과 공감 능력을 바탕으로,   
 
