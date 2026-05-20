@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 
 
 
-<h3> Full Stack Developer 박세원입니다! 😄</h3>
+<h3> Full Stack Developer 박세원입니다! </h3>
 </br>
 
-💻 개발자란 기술을 통해 문제를 해결하고, 팀과 함께 사용자에게 더 나은 경험을 제공하는 사람이라고 생각합니다.
+💻 개발자란 기술을 통해 문제를 해결하고, 팀원과 함께 사용자에게 더 나은 경험을 제공하는 사람이라고 생각합니다.
 
 👥 끊임없는 탐구와 협업을 통해 성장하는 웹 개발자로서 회사의 가치 향상에 기여하겠습니다.
 
 </br>
 
-🎓 유아교육과 출신으로 뛰어난 커뮤니케이션과 공감 능력을 바탕으로,   
+🔨  시스템 아키텍처 설계, 서버 및 ui ux 구현 등 전반적인 웹을 운영했던 경험
 
-🙌 **사람을 위한 기술**을 만들기 위해 꾸준히 배우고 실천하고 있습니다.
+🎓 유아교육과 출신으로 뛰어난 커뮤니케이션과 공감 능력으로
+
+👥 **사람을 위한 기술**을 만들기 위해 꾸준히 배우고 실천하고 있습니다.
 
 </br>
 </br>
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 - 단순히 동작하는 프로그램이 아닌 **사용자 친화적인 UI/UX**와 **이해하기 쉬운 코드** 지향 
 
 ⭐ **개발 경험**  
-- **Spring MVC 패턴 / Spring Boot, React** 기반 웹 플랫폼 구현  
+- **Spring MVC 패턴 + jsp / Spring Boot + React** 기반 웹 플랫폼 구현  
 - **AI 쇼핑몰 프로젝트**: Spring Boot + Gradle + React + Gemini 활용  
 - **MySQL**로 CRUD, 페이징, 검색 기능 직접 구현
 
@@ -62,8 +64,8 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 **Backend**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-Design%20Pattern-4B8BBE?style=flat&logo=appveyor&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-FF6F00?style=flat&logo=java&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=flat&logo=mysql&logoColor=white)
