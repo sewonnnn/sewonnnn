@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 💻 개발자란 기술을 통해 문제를 해결하고, 팀원과 함께 사용자에게 더 나은 경험을 제공하는 사람이라고 생각합니다.
 
+🤖 ai를 활용한 자동화 프로세스를 구축하여 개발의 효율을 높히는 것을 지향합니다.
+
 📖 끊임없는 탐구와 협업을 통해 성장하는 웹 개발자로서 회사의 가치 향상에 기여하겠습니다.
 
 </br>
@@ -41,9 +43,13 @@ Here are some ideas to get you started:
 - 단순히 동작하는 프로그램이 아닌 **사용자 친화적인 UI/UX**와 **이해하기 쉬운 코드** 지향 
 
 ⭐ **개발 경험**  
+- skill, tool, ref를 활용한 LMS 강의 제작 자동화 시스템 구축
+- 근태·급여·전자결재 통합 HR SaaS 플랫폼 구축 및 유지보수
+- HRD 직업훈련 LMS 리뉴얼(사업주·내일배움카드 통합 플랫폼)
+- langgraph, langchain 활용한 초보 주식 멘토 에이전트 개발 (약 2주)
+- elevenlabs를 활용한 ai 결혼 매칭 서비스 서버 개선
 - **Spring MVC 패턴 + jsp / Spring Boot + React** 기반 웹 플랫폼 구현  
 - **AI 쇼핑몰 프로젝트**: Spring Boot + Gradle + React + Gemini 활용  
-- **MySQL**로 CRUD, 페이징, 검색 기능 직접 구현
 
 
 ---
