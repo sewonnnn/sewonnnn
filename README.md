@@ -8,7 +8,7 @@
 - 🧩 Kotlin · Spring으로 두 서비스를 통합한 LMS 출시 · **외부 연동 8종** 설계 · 문서화
 - 🤖 AI 에이전트로 **30분 이상 강의**를 만드는 자동화 파이프라인 구축
 
-🎓 교사 출신으로, 상대의 눈높이에 맞춰 설명하던 경험을 살려 고객사 요구를 기능으로 정리합니다.
+🎓 유아교육과 출신으로, 상대의 눈높이에 맞춰 설명하던 경험을 살려 고객사 요구를 기능으로 정리합니다.
 
 <br>
 
@@ -66,6 +66,12 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+<br>
+
+## 🌱 Contributions
+
+<img src="https://ghchart.rshah.org/f4848b/sewonnnn" alt="sewonnnn's GitHub contributions" width="100%"/>
 
 <br>
 
