@@ -67,11 +67,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-<br>
 
-## 🌱 Contributions
-
-<img src="https://ghchart.rshah.org/f4848b/sewonnnn" alt="sewonnnn's GitHub contributions" width="100%"/>
 
 <br>
 
