@@ -1,116 +1,78 @@
-<!--
-**sewonnnn/sewonnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCCC&height=250&fontSize=50&animation=twinkling&text=Sewon's%20Github&fontColor=660000)
-<!-- 간단한 인사말 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++Sewon+Park)](https://git.io/typing-svg)
 
+<h3>원인을 근거로 확인하고 개선하는 풀스택 개발자 박세원입니다.</h3>
 
+- 🏢 HR SaaS 실서비스 운영 · 비밀번호 처리 **5.62초 → 0.001초 미만** 개선
+- 🧩 Kotlin · Spring으로 두 서비스를 통합한 LMS 출시 · **외부 연동 8종** 설계 · 문서화
+- 🤖 AI 에이전트로 **30분 이상 강의**를 만드는 자동화 파이프라인 구축
 
-<h3> Full Stack Developer 박세원입니다! </h3>
-</br>
+🎓 유아교육과 출신으로, 상대의 눈높이에 맞춰 설명하던 경험을 살려 고객사 요구를 기능으로 정리합니다.
 
-💻 개발자란 기술을 통해 문제를 해결하고, 팀원과 함께 사용자에게 더 나은 경험을 제공하는 사람이라고 생각합니다.
+<br>
 
-🤖 ai를 활용한 자동화 프로세스를 구축하여 개발의 효율을 높히는 것을 지향합니다.
+## 💼 Experience
 
-📖 끊임없는 탐구와 협업을 통해 성장하는 웹 개발자로서 회사의 가치 향상에 기여하겠습니다.
+**디비안츠** · 웹개발연구원 · 2025.12 ~ 재직 중
 
-</br>
+| 프로젝트 | 내용 | 기술 |
+| --- | --- | --- |
+| 🏢 **HR SaaS** ([simplehr.co.kr](https://simplehr.co.kr)) | 근태 · 급여 · 전자결재 통합 HR 서비스 기능 구현 및 운영 | FastAPI · PostgreSQL · Redis · Next.js |
+| 🤖 **강의 제작 자동화** | AI 에이전트 기반 LMS 강의 제작 자동화 시스템 구축 | Claude Code · Codex · Node.js · Remotion |
+| 📚 **HRD 직업훈련 LMS 리뉴얼** | 사업주 · 내일배움카드 통합 LMS, 외부 연동 8종 설계 · 문서화 | Kotlin · Spring Boot · JPA · Redis |
+| 📈 [**stock-helper**](https://github.com/sewonnnn/stock-helper) | 주식 초보자를 위한 AI 에이전트 (사내 학습 프로젝트) | LangGraph · Self-RAG · FastAPI |
 
-🔨  현장에서 시스템 아키텍처 설계, 서버 및 ui ux 구현 등 전반적인 웹을 운영했던 경험
+<br>
 
-🎓 유아교육과 출신으로 뛰어난 커뮤니케이션과 공감 능력으로
+## 🧩 Projects
 
-🙎🏻‍♀️ **사람을 위한 기술**을 만들기 위해 꾸준히 배우고 실천하고 있습니다.
+부트캠프(한국정보교육원 클라우드 활용 풀스택 개발 과정, 2025.04 ~ 2025.10)에서 진행한 프로젝트예요.
 
-</br>
-</br>
+| 프로젝트 | 설명 | 기술 |
+| --- | --- | --- |
+| 👕 [**Faishion**](https://github.com/sewonnnn/faishion) | AI 기반 체형 맞춤 가상 피팅 플랫폼 · 결제 · 주문 담당 | Spring Boot · JPA · React · Toss Payments |
+| 🌐 [**I-ON**](https://github.com/sewonnnn/I-ON) | 아동 범죄 예방을 위한 지역 기반 커뮤니티 & 위험 알림 플랫폼 | Spring MVC · JSP · MySQL |
+| 🛡️ [**Senior-Digital-Experience**](https://github.com/sewonnnn/Senior-Digital-Experience) | 고령층을 대상으로 한 디지털 교육 플랫폼 | React · 공공데이터 API · Kakao Map API |
 
-📌 **목표** 
-- 단순히 동작하는 프로그램이 아닌 **사용자 친화적인 UI/UX**와 **이해하기 쉬운 코드** 지향 
+<br>
 
-⭐ **개발 경험**  
-- skill, tool, ref를 활용한 LMS 강의 제작 자동화 시스템 구축
-- 근태·급여·전자결재 통합 HR SaaS 플랫폼 구축 및 유지보수
-- HRD 직업훈련 LMS 리뉴얼(사업주·내일배움카드 통합 플랫폼)
-- langgraph, langchain 활용한 초보 주식 멘토 에이전트 개발 (약 2주)
-- elevenlabs를 활용한 ai 결혼 매칭 서비스 서버 개선
-- **Spring MVC 패턴 + jsp / Spring Boot + React** 기반 웹 플랫폼 구현  
-- **AI 쇼핑몰 프로젝트**: Spring Boot + Gradle + React + Gemini 활용  
+## 🛠️ Tech Stack
 
+**Main**
 
----
-
-### 🛠️ Tech Stack
-
-
-**Languages & Fundamentals**  
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Design%20Pattern-4B8BBE?style=flat&logo=appveyor&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-FF6F00?style=flat&logo=java&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=flat&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-FF0033?style=flat&logo=java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Tools**  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+**Used at work**
 
-**DevOps & Cloud**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
+<br>
 
-### 🧩 Projects
+## 📫 Contact
 
-| 프로젝트명                    | 설명                                                      | 기술 스택                          |
-| ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| 🛡️ **Senior-Digital-Experience**     | 고령층을 대상으로한 디지털 교육 플랫폼 | React, CSS Modules, React Router, React Context API,공공데이터 API, Kakao Map API |
-| 🌐 **I-ON**  |아동 범죄 예방을 위한 지역 기반 커뮤니티 & 실시간 위험 알림 플랫폼            |  Spring MVC, Java, MySQL, JSP, Tomcat, View, Auth |
-| 👕 **Faishion** | AI 기반 체형 맞춤 가상 피팅 플랫폼                        | Spring Boot, JPA, MySQL, React.js, JavaScript, AWS |
-
-
----
-
-### 📫 Contact
-
-- 📝 Velog Resume : [https://velog.io/@sewonnnn/posts]
+- ✍️ Blog (기술 경험 · 트러블슈팅) : [sewondevlab.com](https://sewondevlab.com)
+- 📝 Velog (학습 기록) : [velog.io/@sewonnnn](https://velog.io/@sewonnnn)
 - ✉️ Email : tpdnjs2896@naver.com
-
----
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F3D6D7&height=200&section=footer"/>
