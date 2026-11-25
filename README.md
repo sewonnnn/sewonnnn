@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm++Sewon+Park)](https://git.io/typing-svg)
 
 <h3>원인을 근거로 확인하고 개선하는 풀스택 개발자 박세원입니다.</h3>
+최근에는 AI 에이전트로 업무를 자동화하는 구조를 설계하고 있습니다.
 
 - 🏢 HR SaaS 실서비스 운영 · 비밀번호 처리 **5.62초 → 0.001초 미만** 개선
 - 🧩 Kotlin · Spring으로 두 서비스를 통합한 LMS 출시 · **외부 연동 8종** 설계 · 문서화
